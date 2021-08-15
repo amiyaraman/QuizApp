@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="Correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_scorer_text">0/10</string>
+    <string name="incorrect_toast_massage">Not good!</string>
+    <string name="correct_toast_message">Great!</string>
+
+    <string name="q1">A honey bee can fly at 15mph</string>
+    <string name="q2">S jellyfish is approximately 95% water</string>
+    <string name="q3">Elephants are the only mammals that can not jump</string>
+    <string name="q4">cat can hear ultra sound</string>
+    <string name="q5">A human brain weighs abiut three pounds</string>
+    <string name="q6">The toung is the fastest healing part of the body</string>
+    <string name="q7">A honey bee can fly at 15mph</string>
+    <string name="q8">S jellyfish is approximately 95% water</string>
+    <string name="q9">Elephants are the only mammals that can not jump</string>
+    <string name="q10">cat can hear ultra sound</string>
+    <string name="q11">A human brain weighs abiut three pounds</string>
+    <string name="q12">The toung is the fastest healing part of the body</string>
+</resources>
